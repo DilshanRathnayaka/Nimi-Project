@@ -13,9 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-###`Reason for Used Technologies`
+###  `Reason for Used Technologies`
 MEAN Popular open-source JavaScript software stack for building dynamic web sites and web applications.
 Ant Design - easy for use and popular UI design langusge
 
-###`if you can give more time `
+### `if you can give more time `
 I  don't enough time for create cart because of my university assignments.if you can give more time i can create cart using redux.
